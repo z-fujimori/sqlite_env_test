@@ -1,6 +1,6 @@
 ## 導入
-- `sqlite3 mydatabase.db < init.sql`
-- `sqlite3 mydatabase.db`
+- `sqlite3 mydatabase.db < init.sql`: initファイルで初期化
+- `sqlite3 mydatabase.db` SQLiteのCLIにイン
 - `sqlite>`から始まっていたら正解 
 - `.tables`でテーブルがあるか確認しよう。
 
