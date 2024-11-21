@@ -13,7 +13,7 @@
 
 
 
-###　ドッカー使うverはわからんかった
+### ドッカー使うverはわからんかった
 1. Dockerイメージをビルド
 `docker build -t sqlite-docker .`
 2. コンテナを実行
